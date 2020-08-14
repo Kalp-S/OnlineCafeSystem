@@ -1,0 +1,28 @@
+.Header {
+  text-align: center;
+}
+.Header-userTab {
+  text-align:right;
+}
+
+.Header-grow{
+    flexGrow: 1,
+},
+.Header-appBar{
+    backgroundColor: 'lightskyblue',
+},
+.Header-userButton{
+  display: "flex"
+}
+.grow{
+  flexGrow: 1;
+},
+.appBar{
+  backgroundColor: 'lightskyblue';
+},
+.userButton{
+  display: 'flex';
+},
+.settings{
+  justify-content: flex-end;
+}

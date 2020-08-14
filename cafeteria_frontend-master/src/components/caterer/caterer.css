@@ -1,0 +1,13 @@
+.catererImg{
+  max-height: 200px;
+  object-fit: cover;
+}
+.alignEntrees{
+  margin-left: -23px
+}
+.alignMain{
+  margin-left: 7px
+}
+.alignDesserts{
+  margin-left: -13px
+}
