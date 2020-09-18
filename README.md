@@ -8,7 +8,8 @@
    
  ## How does the project work?
  
-  End users are split into three categories: 
+  End users are split into three categories:
+  
     ..*User: Have the ability to order food from caterer. Can also register to the platform as an employee of their company.
     ..*Company: Can register onto the platform. Have the ability to add/remove users into/off the system.
     ..*Caterer: Have the ability to access specific caterer pages where they can update menu offerings and view remaining orders.
