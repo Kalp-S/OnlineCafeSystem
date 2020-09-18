@@ -9,11 +9,10 @@
  ## How does the project work?
  
   End users are split into three categories:
-  
-    ..*User: Have the ability to order food from caterer. Can also register to the platform as an employee of their company.
-    ..*Company: Can register onto the platform. Have the ability to add/remove users into/off the system.
-    ..*Caterer: Have the ability to access specific caterer pages where they can update menu offerings and view remaining orders.
-    ..*Admin: Have the ability to modify user + caterer + company access and have the ability to change personal information of all parties.
+      *User: Have the ability to order food from caterer. Can also register to the platform as an employee of their company.
+      *Company: Can register onto the platform. Have the ability to add/remove users into/off the system.
+      *Caterer: Have the ability to access specific caterer pages where they can update menu offerings and view remaining orders.
+      *Admin: Have the ability to modify user + caterer + company access and have the ability to change personal information of all parties.
   
   At launch, the program begins with only 1 account on the system, with admin privleges. Caterer accounts and company accounts can be added to the system by the admin when necessary. Company accounts can also be input to the system by registering themselves. Users accounts can then be input to the system by the company or user accounts can be added by signing up with a company on the system.
   
