@@ -1,0 +1,43 @@
+.User {
+  text-align: center;
+}
+
+.User-background {
+  background-color: lightGreen
+}
+
+.User-card{
+  height:inherit;
+}
+
+.User-today{
+  padding: 10px 16px;
+  color: lightskyblue;
+  background-color: white;
+  text-align: justify;
+}
+
+.User-line{
+width: -webkit-fill-available;
+border-bottom: 1px solid black;
+position: absolute;
+}
+
+.carousel-img {
+   height: 200px!important;
+}
+
+.carousel-transform{
+  object-fit: fill;
+  margin-top: 1%;
+  transform: translateX(40%);
+}
+
+.carousel-padding {
+  padding-top: 1%
+}
+
+.MenuImg{
+  object-fit: cover;
+  max-height: 200px;
+}

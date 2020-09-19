@@ -1,0 +1,61 @@
+.Login-background {
+  text-align: center;
+  background-image: url('./../../images/login.jpg');
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  text-align: center;
+}
+
+
+.Login-outline {
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-top: 15%;
+  padding-bottom: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
+  display: inline-block;
+}
+
+.Login-outline__space {
+  height: 2%;
+}
+
+.Login-buttonGroup {
+  margin-top: 4%;
+}
+
+.employee-alert {
+  margin-top: 4%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
